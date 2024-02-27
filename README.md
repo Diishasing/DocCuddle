@@ -1,25 +1,22 @@
-# DocCuddle
-
-
-
 </span>
 
-<!-- PROJECT LOGO -
+
 <br />
 <p align="center">
   <a href="https://github.com/kanitmann/hackathon_readme_template">
-    <img src="https://dpbh2023.in/index.html" alt="Logo" width="80" height="80">
-  </a> -->
+    <img src="https://em-content.zobj.net/source/microsoft/379/robot_1f916.png" alt="Logo" width="90" height="90">
+  </a> 
 
-  <h3 align="center">DocCuddle</h3>
-  <h4 align="center">Introducing DocCuddle - the lazy person's guide to conquering mountains of text!</h4>
+  <h1 align="center">DocCuddle</h1>
+  <p align = "center"> <a href="https://chat-with-doccuddle.streamlit.app/">Checkout DocCuddle</a></p>
+  <h3 align="center">Introducing DocCuddle - the lazy person's guide to conquering mountains of text!</h3>
 
 
   <p align="center">
     Ever wish you could absorb info without the headache? DocCuddle's got your back! Just toss in your never-ending docs - PDFs, DOCX, URLs, you name it! - and voila! It magically serves up bite-sized summaries faster than you can say "tl;dr"! Say goodbye to reading marathons and hello to catnaps while DocCuddle does the heavy lifting. Get ready to cuddle up with your docs, minus the struggle!
 </p>
 
-<!-- TABLE OF CONTENTS -
+TABLE OF CONTENTS -
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
@@ -36,26 +33,22 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT 
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://chat-with-doccuddle.streamlit.app/) -->
 
 ### Built With
 
-- [Python](https://www.python.org/)
-- [Streamlit](https://streamlit.io/)
-- [Love](https://en.wikipedia.org/wiki/Love)
-- [Chai](https://en.wikipedia.org/wiki/Masala_chai)
+- [Python 🐍](https://www.python.org/)
+- [Streamlit 🔥](https://streamlit.io/)
+- [Love 💝](https://en.wikipedia.org/wiki/Love)
+- [Chai ☕](https://en.wikipedia.org/wiki/Masala_chai)
 
 
 <!-- GETTING STARTED -->
@@ -72,20 +65,24 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/shanurr02/dbph.git
+   git clone https://github.com/Diishasing/DocCuddle.git
    ```
 2. Install the required packages
    ```sh
-   pip install -r require.txt
+   pip install -r requirements.txt
    ```
+2. Run the streamlit app
+   ```sh
+   streamlit run docsum.py
+   ```
+   
+<!-- USAGE EXAMPLES
 
-<!-- USAGE EXAMPLES -->
-
-<!--## Usage
+## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 <!-- ROADMAP -->
 
@@ -93,7 +90,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/kanitmann/hackathon_readme_template/issues) for a list of proposed features (and known issues).
 
-<!-- CONTRIBUTING -->
+ CONTRIBUTING -->
 
 ## Contributing
 
@@ -105,46 +102,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- LICENSE -->
+> Made by Disha 🙋‍♀️⚡!
 
-<!--## License
-
-Distributed under the SATA License. See `LICENSE` for more information.
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- [https://github.com/yamanalab/ec-darkpattern]()
-- [https://github.com/NicholasTung/dark-patterns-recognition/tree/master]()
-- [https://arxiv.org/abs/1907.07032]()
-- [https://dpbh2023.in/]()
-  
-
-> Made by Disha!
-
-<span style="display:block;text-align:center">
-
-[![Made With][made-with-shield]][made-with-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/kanitmann/hackathon_readme_template.svg?style=for-the-badge
-[contributors-url]: https://github.com/kanitmann/hackathon_readme_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/kanitmann/hackathon_readme_template.svg?style=for-the-badge
-[forks-url]: https://github.com/kanitmann/hackathon_readme_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/kanitmann/hackathon_readme_template.svg?style=for-the-badge
-[stars-url]: https://github.com/kanitmann/hackathon_readme_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kanitmann/hackathon_readme_template.svg?style=for-the-badge
-[issues-url]: https://github.com/kanitmann/hackathon_readme_template/issues
-[license-shield]: https://img.shields.io/badge/license-SATA-blue?style=for-the-badge&logo=appveyor
-[license-url]: https://github.com/kanitmann/hackathon_readme_template/blob/master/LICENSE.txt
-[made-with-shield]: https://img.shields.io/github/languages/top/kanitmann/hackathon_readme_template?style=for-the-badge
-[made-with-url]: https://shields.io/github/languages/top/kanitmann/hackathon_readme_template.svg?style-for-the-badge
 [product-screenshot]: (images/screenshot.png)
