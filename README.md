@@ -16,7 +16,6 @@
     Ever wish you could absorb info without the headache? DocCuddle's got your back! Just toss in your never-ending docs - PDFs, DOCX, URLs, you name it! - and voila! It magically serves up bite-sized summaries faster than you can say "tl;dr"! Say goodbye to reading marathons and hello to catnaps while DocCuddle does the heavy lifting. Get ready to cuddle up with your docs, minus the struggle!
 </p>
 
-TABLE OF CONTENTS -
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
