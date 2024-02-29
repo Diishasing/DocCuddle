@@ -8,7 +8,7 @@
   </a> 
 
   <h1 align="center">DocCuddle</h1>
-  <p align = "center"> <a href="https://chat-with-doccuddle.streamlit.app/">Checkout DocCuddle</a></p>
+  <p align = "center"> <a href="https://chat-with-doccuddle.streamlit.app/">Chat with docs at DocCuddle</a></p>
   <h3 align="center">Introducing DocCuddle - the lazy person's guide to conquering mountains of text! Ready to chat with your content?</h3>
 
 
